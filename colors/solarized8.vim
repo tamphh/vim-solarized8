@@ -166,7 +166,7 @@ if !get(g:, 'solarized_use16', &t_Co < 256)
     hi! link Number Constant
     hi! link Operator Statement
     hi! link PreCondit PreProc
-    hi PreProc ctermfg=166 ctermbg=NONE guifg=#cb4b16 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+    hi PreProc ctermfg=166 ctermbg=NONE guifg=#859900 guibg=NONE guisp=NONE cterm=NONE gui=NONE
     hi! link Repeat Statement
     hi Special ctermfg=166 ctermbg=NONE guifg=#cb4b16 guibg=NONE guisp=NONE cterm=NONE gui=NONE
     hi! link SpecialChar Special
@@ -556,7 +556,7 @@ if !get(g:, 'solarized_use16', &t_Co < 256)
   hi! link Number Constant
   hi! link Operator Statement
   hi! link PreCondit PreProc
-  hi PreProc ctermfg=166 ctermbg=NONE guifg=#cb4b16 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi PreProc ctermfg=166 ctermbg=NONE guifg=#859900 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi! link Repeat Statement
   hi Special ctermfg=166 ctermbg=NONE guifg=#cb4b16 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi! link SpecialChar Special
@@ -918,7 +918,7 @@ if &background ==# 'dark'
   hi! link Number Constant
   hi! link Operator Statement
   hi! link PreCondit PreProc
-  hi PreProc ctermfg=9 ctermbg=NONE guifg=#cb4b16 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+  hi PreProc ctermfg=9 ctermbg=NONE guifg=#859900 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi! link Repeat Statement
   hi Special ctermfg=9 ctermbg=NONE guifg=#cb4b16 guibg=NONE guisp=NONE cterm=NONE gui=NONE
   hi! link SpecialChar Special
@@ -1290,7 +1290,7 @@ hi! link Macro PreProc
 hi! link Number Constant
 hi! link Operator Statement
 hi! link PreCondit PreProc
-hi PreProc ctermfg=9 ctermbg=NONE guifg=#cb4b16 guibg=NONE guisp=NONE cterm=NONE gui=NONE
+hi PreProc ctermfg=9 ctermbg=NONE guifg=#859900 guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi! link Repeat Statement
 hi Special ctermfg=9 ctermbg=NONE guifg=#cb4b16 guibg=NONE guisp=NONE cterm=NONE gui=NONE
 hi! link SpecialChar Special
