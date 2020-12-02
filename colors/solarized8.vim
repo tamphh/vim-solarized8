@@ -194,7 +194,7 @@ if (has('termguicolors') && &termguicolors) || has('gui_running')
     hi Error guifg=#dc322f guibg=#fdf6e3 gui=bold,reverse cterm=bold,reverse
     hi Identifier guifg=#268bd2 guibg=NONE gui=NONE cterm=NONE
     hi Ignore guifg=NONE guibg=NONE gui=NONE ctermfg=NONE ctermbg=NONE cterm=NONE
-    hi PreProc guifg=#cb4b16 guibg=NONE gui=NONE cterm=NONE
+    hi PreProc guifg=#859900 guibg=NONE gui=NONE cterm=NONE
     hi Special guifg=#cb4b16 guibg=NONE gui=NONE cterm=NONE
     hi Statement guifg=#859900 guibg=NONE gui=NONE cterm=NONE
     hi Todo guifg=#d33682 guibg=NONE gui=bold cterm=bold
